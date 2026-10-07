@@ -1,6 +1,6 @@
 {
   "name": "ice-candidate-parse",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Parses WebRTC ICE candidate strings into foundation, component, protocol, priority, address, port, type, and extensions.",
   "type": "module",
   "main": "src/index.js",
